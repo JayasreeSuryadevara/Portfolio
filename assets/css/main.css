@@ -2218,6 +2218,11 @@ input, select, textarea {
 
 /* Image */
 
+	.profile {
+		display: block;
+		height: 300px;
+		width: 300px;
+	}
 	.image {
 		border: 0;
 		display: inline-block;
