@@ -1,5 +1,6 @@
-# Personal Portfolio of Jayasree Suryadevara
+# Personal Portfolio of Jaya Suryadevara
 
+A Seasoned Software Professional with Management and Planning experience.
  
   
   Links to
